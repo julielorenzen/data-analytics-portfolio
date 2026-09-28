@@ -137,11 +137,11 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 
 ***Business Problems & Solutions using Excel***:  
 
-1.  ***Financial Analysis:***  Freight spend by carrier is shown by Excel PivotTable.
+1.  ***Financial Analysis:***  Freight spend by carrier is shown by my Excel PivotTable.
 
-2.  ***Data Cleaning, Validation & Automation:***  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that was corrected in Excel by VBA.
+2.  ***Data Cleaning, Validation & Automation:***  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that I corrected in Excel by VBA.
 
-3.  ***Data Automation:***  Excel VBA code is used to create an upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
+3.  ***Data Automation:***  Excel VBA code is used to create my upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
 
 
 - freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total weekly freight expense by carrier
