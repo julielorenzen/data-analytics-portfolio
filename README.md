@@ -144,7 +144,7 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 3.  ***Data Automation:***  Excel VBA code is used to create my upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
 
 
-- freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total weekly freight expense by carrier
+- freight_pivot_table.xlsx | Created PivotTable and PivotChart to summarize total weekly freight expense by carrier by grouping their totals
 
 ---
  
