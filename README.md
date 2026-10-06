@@ -163,31 +163,31 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 ---
 
 
-freight_pivot_table.png ![freight_analytics](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Excel/freight_pivot_table.png)
+freight_pivot_table.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/excel/freight_pivot_table.png)
 
 
 ---
 
 
-freight_glcodecheck_vlookup.png ![freight_glcodecheck_vlookup.png](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Excel/freight_glcodecheck_vlookup.png)
+freight_glcodecheck_vlookup.png ![freight_glcodecheck_vlookup.png](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/excel/freight_glcodecheck_vlookup.png)
 
 
 
-freight_glcodecheck_vlookup_macro.png ![freight_glcodecheck_vlookup.png](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Excel/freight_glcodecheck_vlookup_macro.png)
+freight_glcodecheck_vlookup_macro.png ![freight_glcodecheck_vlookup.png](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/excel/freight_glcodecheck_vlookup_macro.png)
 
 
 ---
 
 
-freight_je_upload_template.png ![freight_je-upload_template](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_template.png)
+freight_je_upload_template.png ![freight_je-upload_template](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/excel/freight_je_upload_template.png)
 
  
 
-freight_je_upload_file.png ![freight_je-upload_template](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_file.png)
+freight_je_upload_file.png ![freight_je-upload_template](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/excel/freight_je_upload_file.png)
 
 
 
-freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Excel/freight_je_upload_export_vba_code.png)
+freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/excel/freight_je_upload_export_vba_code.png)
 
 
 ---
