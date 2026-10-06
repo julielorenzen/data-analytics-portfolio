@@ -59,11 +59,11 @@ I imported this freight invoice and freight COA table into Power BI from SQL Ser
 
 
 - weekly_freight_analysis_invoice_D2L052110.pbix
-- weekly_freight_cost_overview.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_overview_invoice_D2L052126.png)
-- weekly_freight_cost_drivers.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_cost_drivers_invoice_D2L052126.png)
-- weekly_freight_kpis.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_kpis_invoice_D2L052126.png)
-- weekly_freight_insights.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/weekly_freight_insights_invoice_D2L052126.png)
-- weekly_freight_tables_model.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/Power-BI/weekly_freight_tables_model_invoice_D2l052126.png)
+- weekly_freight_cost_overview.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_overview_invoice_D2L052126.png)
+- weekly_freight_cost_drivers.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_drivers_invoice_D2L052126.png)
+- weekly_freight_kpis.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_kpis_invoice_D2L052126.png)
+- weekly_freight_insights.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_insights_invoice_D2L052126.png)
+- weekly_freight_tables_model.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_tables_model_invoice_D2l052126.png)
 
 
 ---
@@ -85,11 +85,11 @@ Now I have imported this P&L data into Power BI from Excel.
 
 
 - profit_loss_analysis_FY2008.pbix
-- profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_kpis.png)
-- profit_loss_analysis_FY2008_monthly_trends.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_monthly_trends.png)
-- profit_loss_analysis_FY2008_variances.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_variances.png)
-- profit_loss_analysis_FY2008_insights.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_insights.png)
-- profit_loss_analysis_FY2008_tables_model.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/Power-BI/profit_loss_analysis_FY2008_tables_model.png)
+- profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_kpis.png)
+- profit_loss_analysis_FY2008_monthly_trends.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_monthly_trends.png)
+- profit_loss_analysis_FY2008_variances.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_variances.png)
+- profit_loss_analysis_FY2008_insights.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_insights.png)
+- profit_loss_analysis_FY2008_tables_model.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_tables_model.png)
 
 
 ---
