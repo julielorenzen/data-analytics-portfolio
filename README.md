@@ -206,9 +206,9 @@ Financial dashboards and reports can be published to a WordPress website.
 ---
 
 
-WordPress1.png ![freight_analytics](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/WordPress/WordPress1.png)
+wordpress1.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/mainW/wordpress/wordpress1.png)
 
-WordPress2.png ![freight_analytics](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/WordPress/WordPress2.png)
+wordpress2.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/wordpress/wordpress2.png)
 
 
 
