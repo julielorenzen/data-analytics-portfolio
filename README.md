@@ -122,12 +122,12 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 - freight_analysis6.sql  |  Used SELECT and  WHERE to find missing GL codes in consolidated freight invoice
 
 
-- freight_analysis1.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis1.png)
-- freight_analysis2.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis2.png)
-- freight_analysis3.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis3.png)
-- freight_analysis4.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis4.png)
-- freight_analysis5.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis5.png)
-- freight_analysis6.png ![freight](https://github.com/julielorenzen/Data-Analytics-Portfolio/blob/main/SQL-Server/freight_analysis6.png)
+- freight_analysis1.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis1.png)
+- freight_analysis2.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis2.png)
+- freight_analysis3.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis3.png)
+- freight_analysis4.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis4.png)
+- freight_analysis5.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis5.png)
+- freight_analysis6.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis6.png)
 
 ---
 
