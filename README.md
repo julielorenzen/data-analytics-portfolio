@@ -13,7 +13,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 
 
-### 📈 Freight Analysis and Profit & Loss Analysis
+### 📈 Freight Spend Analysis and Profit & Loss Analysis
 
 1.  This portfolio shows my Power BI freight invoice analysis that I used analyze freight spend.  Also, using Power BI, a fiscal year P&L statement is included to report overall company performance and provide variance analysis.  
 
