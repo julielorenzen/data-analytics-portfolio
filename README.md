@@ -202,8 +202,11 @@ Built a small freight analytics workflow in Microsoft Fabric using Dataflow Gen2
 - FreightInvoices2
 
 
+freightinvoices1.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices1.png)
 
+freightinvoices2.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices2.png)
 
+---
 
 
 ### 📁 WordPress Files:
