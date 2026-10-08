@@ -209,9 +209,9 @@ Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table 
 - FreightInvoices2  | Dataflow Gen2
 
 
-freightinvoices1.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices1.png)
+freightinvoices_lakehouse_freightclean.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices_lakehouse_freightclean.png)
 
-freightinvoices2.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices2.png)
+freightinvoices_dataflowgen2_powerquery.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices_dataflowgen2_powerquery.png)
 
 
 ---
