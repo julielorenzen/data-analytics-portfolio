@@ -200,7 +200,7 @@ I built a small freight analytics workflow in Microsoft Fabric using Dataflow Ge
 
 **Freight Analystics Workflow:**
 
-Excel file on my computer  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation and Power BI
+Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation and Power BI
 
 
 
