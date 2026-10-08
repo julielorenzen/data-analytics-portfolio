@@ -195,7 +195,7 @@ freight_je_upload_export_vba_code.png ![freight_je-upload_template](https://gith
 
 ### 📁 Fabric Files:
 
-I built a small freight analytics workflow in Microsoft Fabric using Dataflow Gen2 to prepare invoice data, a Lakehouse to store the reporting table, SQL to validate and summarize the data, and Power BI to analyze carrier and shipping-lane spending.
+I built a small freight analytics workflow in Microsoft Fabric using Dataflow Gen2 to prepare invoice data, a Lakehouse to store the reporting table, SQL to validate and summarize the data, and Power BI to analyze carrier spending.
 
 
 **Freight Analystics Workflow:**
@@ -204,9 +204,9 @@ Excel file on my computer  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data
 
 
 
-- FreightInvoices1
+- FreightInvoices1 |  Lakehouse
   
-- FreightInvoices2
+- FreightInvoices2  | Dataflow Gen2
 
 
 freightinvoices1.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices1.png)
