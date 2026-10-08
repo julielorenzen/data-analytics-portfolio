@@ -200,15 +200,7 @@ I built a small freight analytics workflow in Microsoft Fabric using Dataflow Ge
 
 **Freight Project Workflow:**
 
-CSV on my computer
-        ↓ Upload
-Lakehouse Files
-        ↓ Load to tables
-FreightRaw table
-        ↓ Dataflow Gen2 transformations
-FreightClean table
-        ↓
-SQL validation and Power BI
+Excel file on my computer  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation and Power BI
 
 
 
@@ -220,6 +212,7 @@ SQL validation and Power BI
 freightinvoices1.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices1.png)
 
 freightinvoices2.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices2.png)
+
 
 ---
 
