@@ -203,10 +203,9 @@ I built a small freight analytics workflow in Microsoft Fabric using Dataflow Ge
 Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation and Power BI
 
 
-
-- FreightInvoices1 |  Lakehouse
+- Lakehouse  |  freightinvoices_lakehouse_freightclean
   
-- FreightInvoices2  | Dataflow Gen2
+- Dataflow Gen2  |  freightinvoices_dataflowgen2_powerquery.png
 
 
 freightinvoices_lakehouse_freightclean.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices_lakehouse_freightclean.png)
