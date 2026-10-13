@@ -107,7 +107,9 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 
 3.  ***Export Views to Power BI:***  I used SQL Views to import table queries into Power BI for freight spend analysis published to dashboards.
 
-   
+
+---
+
 
 - freight_analysis1.sql  |  Used SELECT, JOIN  and SUM to get total freight$ by carrier, total freight$ by GL code, and check for invalid GL codes
 
@@ -120,6 +122,9 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 - freight_analysis5.sql  |  Used SELECT and JOIN with WHERE to get total freight$ by each Branch Facility with GL code and description
 
 - freight_analysis6.sql  |  Used SELECT and  WHERE to find missing GL codes in consolidated freight invoice
+
+
+---
 
 
 - freight_analysis1.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis1.png)
@@ -209,6 +214,7 @@ Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table 
   
 - Dataflow Gen2  |  freightinvoices_dataflowgen2_powerquery.png
 
+---
 
 freightinvoices_lakehouse_freightclean.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices_lakehouse_freightclean.png)
 
