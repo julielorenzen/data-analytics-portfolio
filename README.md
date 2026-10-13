@@ -58,6 +58,9 @@ I imported this freight invoice and freight COA table into Power BI from SQL Ser
 3.  ***Freight Spend Metrics:***  Top freight GL expenses.  Carrier freight cost per mile.  Freight cost per pound.
 
 
+---
+
+
 - weekly_freight_analysis_invoice_D2L052110.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_overview_invoice_D2L052126.png)
 - weekly_freight_cost_drivers.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_drivers_invoice_D2L052126.png)
@@ -83,6 +86,7 @@ Now I have imported this P&L data into Power BI from Excel.
 
 3.  ***Variance Analysis:***  FY2008 Actual vs Prior Year FY2007 (YoY Actual).  Top monthly and yearly variances are provided.
 
+---
 
 - profit_loss_analysis_FY2008.pbix
 - profit_loss_analysis_FY2008_kpis.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_kpis.png)
@@ -134,6 +138,7 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 - freight_analysis5.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis5.png)
 - freight_analysis6.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis6.png)
 
+
 ---
 
 
@@ -147,6 +152,7 @@ I imported the large weekly consolidated freight invoice and chart of accounts i
 2.  ***Data Cleaning, Validation & Automation:***  Weekly freight invoice had many wrong GL codes due to moving or closing facilities or missing codes that I corrected in Excel with VBA.
 
 3.  ***Data Automation:***  Excel VBA code is used to create my upload template to export journal entries as text to the ERP system instead of repeatedly using manual copy and paste to a limited row ERP screen.
+
 
 ---
 
