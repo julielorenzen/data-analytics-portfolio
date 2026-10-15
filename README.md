@@ -215,7 +215,7 @@ I built a small freight analytics workflow in Microsoft Fabric using Dataflow Ge
 
 I import a consolidated freight invoice file from Excel, store it in Lakehouse, use Dataflow Gen2 to prep the file, and then store it as a table in Lakehouse.  Then I use SQL Server to validate the TOP12 shipping and receiving locations.  Finally, this data is published by Power BI as a dashboard.
 
-Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table saved in Lakehouse  ->  SQL validation  ->  Power BI
+Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 to clean and transform with Power Query  ->  Clean Freight table saved in Lakehouse  ->  SQL Server data validation  ->  Power BI to use semantic modeling and DAX  -> publish dashboard
 
 
 - Lakehouse  |  freightinvoices_lakehouse_freightclean
