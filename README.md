@@ -213,7 +213,7 @@ I built a small freight analytics workflow in Microsoft Fabric using Dataflow Ge
 
 **Freight Analytics End to End Workflow:**
 
-I import a consolidated freight invoice file from Excel, store it in Lakehouse, use Dataflow Gen2 to prep the 3500+ invoices, and then store as a table in Lakehouse.  Then I use SQL Server to validate the TOP12 shipping and receiving locations plus the total freight$ by GL codes.  Finally, this data is used and published by Power BI as a dashboard.
+I import a consolidated freight invoice file from Excel, store it in Lakehouse, use Dataflow Gen2 to prep the file, and then store it as a table in Lakehouse.  Then I use SQL Server to validate the TOP12 shipping and receiving locations  Finally, this data is published in Power BI as a dashboard.
 
 Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation  ->  Power BI dashboards
 
@@ -224,8 +224,6 @@ Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table 
 
 - SQL Server |  freight_analysis4.png
   
-- SQL Server  |  freight_analysis5.png
-
 - Power BI  |  weekly_freight_cost_drivers.png
 
 
@@ -238,8 +236,6 @@ freightinvoices_dataflowgen2_powerquery.png ![freight_analytics](https://github.
 
 freight_analysis4.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis4.png)
  
-freight_analysis5.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis5.png)
-
 weekly_freight_cost_drivers.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_drivers_invoice_D2L052126.png)
 
 ---
