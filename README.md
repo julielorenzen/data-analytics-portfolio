@@ -213,18 +213,29 @@ I built a small freight analytics workflow in Microsoft Fabric using Dataflow Ge
 
 **Freight Analytics End to End Workflow:**
 
-Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation and Power BI
+Excel file  ->  Lakehouse Files  ->  Load to tables  ->  Raw Data Freight table  ->  Dataflow Gen2 transformations  ->  Clean Freight table  ->  SQL validation  ->  Power BI dashboards
 
 
 - Lakehouse  |  freightinvoices_lakehouse_freightclean
   
 - Dataflow Gen2  |  freightinvoices_dataflowgen2_powerquery.png
 
+- SQL Server |  freight_analysis4.png
+  
+- SQL Server  |  freight_analysis5.png
+
+- Power BI  |  
 ---
+
 
 freightinvoices_lakehouse_freightclean.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices_lakehouse_freightclean.png)
 
 freightinvoices_dataflowgen2_powerquery.png ![freight_analytics](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/fabric/freightinvoices_dataflowgen2_powerquery.png)
+
+freight_analysis4.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis4.png)
+ 
+freight_analysis5.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/sql-server/freight_analysis5.png)
+
 
 
 ---
