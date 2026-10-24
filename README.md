@@ -6,7 +6,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 Also, I have included a simple **Fabric End to End Workflow using Lakehouse, Dataflow Gen2, and Power BI** to demonstrate a data pipeline in Fabric.
 
-In addition to general accounting and financial analysis, I am a FP&A and freight-analytics professional with Power BI, SQL, Advanced Excel VBA, and Microsoft Fabric experience, building modern financial and operational reporting.  
+In addition to general accounting and financial analysis, I am a FP&A and freight analytics professional with Power BI, SQL, and Advanced Excel VBA experience, building modern financial and operational reporting.  
 
 I’m targeting accounting FP&A, financial analysis reporting, and BI oriented roles where I can use Power BI, SQL, and Excel to improve efficiency, profitability, and operational reporting. 
 
