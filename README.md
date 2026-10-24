@@ -6,7 +6,7 @@ I combine my experience in **accounting and finance** with my skills using **Pow
 
 In addition to general accounting and financial analysis, I am a FP&A and freight-analytics professional with Power BI, SQL, Advanced Excel VBA, and Microsoft Fabric experience, building modern financial and operational reporting.  
 
-I’m targeting accounting FP&A, financial analysis reporting, and BI-oriented roles where I can use Power BI, SQL, Excel and Fabric to improve cost, profitability, and operational reporting. Also, I will be expanding into Python for data preparation and automation.
+I’m targeting accounting FP&A, financial analysis reporting, and BI oriented roles where I can use Power BI, SQL, and Excel to improve efficiency, profitability, and operational reporting. 
 
 
 ### 📉 Financial Analysis Experience
