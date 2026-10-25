@@ -8,7 +8,7 @@ In addition to general accounting and financial analysis, I am a FP&A and freigh
 
 I’m targeting accounting FP&A, financial analysis reporting, and BI oriented roles where I can use Power BI, SQL, and Excel to improve efficiency, profitability, and operational reporting. 
 
-Also, I have included a simple **Fabric End to End Workflow using Lakehouse, Dataflow Gen2, and Power BI** to demonstrate a data pipeline in Fabric.
+Also, I have included a simple **Fabric End to End Workflow using Lakehouse, Dataflow Gen2, and Power BI** to demonstrate a data pipeline.
 
 
 ### 📉 Financial Analysis Experience
