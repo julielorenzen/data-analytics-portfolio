@@ -2,11 +2,9 @@
 Portfolio of my data analysis work using **Power BI, SQL Server and Excel** focused on data analysis, dashboards, and business insights.
 
 ### ⚙️ About Me - Accounting, Financial & Data Analysis
-I combine my experience in **accounting and finance** with my skills using **Power BI, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  I can publish dashboards to **Power BI Service** or **Microsoft Fabric/Power BI** or to **WordPress** websites.  
+I can combine my experience in **accounting and finance** with my skills using **Power BI, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  I can publish dashboards to **Power BI Service** or **Microsoft Fabric/Power BI** or to **WordPress** websites.  
 
-In addition to general accounting and financial analysis, I am a FP&A and freight analysis professional with Power BI, SQL, and Advanced Excel VBA experience, building modern financial and operational reporting.  
-
-I’m targeting accounting FP&A, financial analysis reporting, and BI oriented roles where I can use Power BI, SQL, and Excel to improve efficiency, profitability, and operational reporting. 
+I’m targeting accounting FP&A and BI oriented roles where I can use Power BI, SQL, and Excel to improve efficiency, profitability, and operational reporting to build modern financial and operational reporting.  
 
 Also, I have included a simple **Fabric End to End Workflow using Lakehouse, Dataflow Gen2, and Power BI** to demonstrate a data pipeline.
 
