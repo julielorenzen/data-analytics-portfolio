@@ -94,10 +94,10 @@ Now I have imported this P&L data into Power BI from Excel.
 
 - profit_loss_analysis.pbix
 - profit_loss_analysis_kpis.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_kpis.png)
-- profit_loss_analysis_FY2008_monthly_trends.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_monthly_trends.png)
-- profit_loss_analysis_FY2008_variances.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_variances.png)
-- profit_loss_analysis_FY2008_insights.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_insights.png)
-- profit_loss_analysis_FY2008_tables_model.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_tables_model.png)
+- profit_loss_analysis_monthly_trends.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_monthly_trends.png)
+- profit_loss_analysis_variances.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_variances.png)
+- profit_loss_analysis_insights.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_insights.png)
+- profit_loss_analysis_tables_model.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/profit_loss_analysis_FY2008_tables_model.png)
 
 
 ---
