@@ -4,7 +4,7 @@ Portfolio of my data analysis demo work using **Power BI, SQL Server and Excel**
 ### ⚙️ About Me - Accounting, Financial & Data Analysis
 I combine my experience in **accounting and finance** with my skills using **Power BI, SQL Server and Excel** to build strong data analysis, reporting, and visualization.  I can publish dashboards to **Power BI Service** or **Microsoft Fabric/Power BI** or to **WordPress** websites.  
 
-I’m targeting accounting or financial analysis roles where I can use Power BI, SQL, and Excel to improve efficiency and profitability by building modern financial and operational reporting.  
+I hope to use Power BI, SQL, and Excel to improve efficiency and profitability by building modern financial and operational reporting.  
 
 Also, I have included a simple **Fabric End to End Workflow using Lakehouse, Dataflow Gen2, and Power BI** to demonstrate a data pipeline.
 
