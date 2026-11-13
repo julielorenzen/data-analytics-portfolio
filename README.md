@@ -65,7 +65,7 @@ I imported this freight invoice and freight COA table into Power BI from SQL Ser
 ---
 
 
-- weekly_freight_analysis_invoice_D2L052110.pbix
+- weekly_freight_analysis_invoice.pbix
 - weekly_freight_cost_overview.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_overview_invoice_D2L052126.png)
 - weekly_freight_cost_drivers.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_cost_drivers_invoice_D2L052126.png)
 - weekly_freight_kpis.png ![freight](https://github.com/julielorenzen/data-analytics-portfolio/blob/main/power-bi/weekly_freight_kpis_invoice_D2L052126.png)
